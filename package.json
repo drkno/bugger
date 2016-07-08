@@ -1,0 +1,14 @@
+{
+  "name": "big-ugly-getter-gadget-for-elucidating-results",
+  "version": "1.0.0",
+  "description": "Waits for and retreives UC exam results when they become avalible.",
+  "main": "main.js",
+  "dependencies": {
+    "html-entities": "^1.2.0",
+    "readline-sync": "^1.4.4",
+    "request": "^2.72.0",
+    "simple-spinner": "0.0.5"
+  },
+  "author": "Matthew Knox",
+  "license": "MIT"
+}
