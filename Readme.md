@@ -4,6 +4,8 @@
 ------------------------
 I got sick of waiting for my University of Canterbury Exam results, so this does the waiting for you. Waits for and retreives exam results when they become avalible. It does this by checking the results page every 5mins (configurable).
 
+![Example of the program in action.](./Example.png)
+
 #### Installing
 ```shell
 git clone https://github.com/mrkno/bugger.git Bugger
