@@ -24,5 +24,5 @@ npm start
 - Does it work? Probably not now.
 - Do I care? Better question: how much chocolate will you send me?
 - Does the university support the grotesque reverse engineering of their SSO? I doubt it.
-- Tests? Written in 5 mins and tested in production. It Worked™!
+- Tests? Tested in production. It Worked™!
 - License? MIT.
