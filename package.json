@@ -4,6 +4,7 @@
   "description": "Waits for and retreives UC exam results when they become avalible.",
   "main": "main.js",
   "dependencies": {
+    "colors": "^1.1.2",
     "html-entities": "^1.2.0",
     "readline-sync": "^1.4.4",
     "request": "^2.72.0",
